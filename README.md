@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ADO-Network
-- 👀 I’m interested in https://www.ado.network/
+- 👋 Hi, I’m @Ado Protocol
+- 👀 I’m interested in https://www.adoprotocol.com/
 - 🌱 I’m currently learning Travel, Gambling, Finance and Crypto
 - 💞️ I’m looking to collaborate on crypto
-- 📫 How to reach me https://www.ado.network/
+- 📫 How to reach me https://www.adoprotocol.com/
 
 <!---
 ADO-Network/ADO-Network is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
